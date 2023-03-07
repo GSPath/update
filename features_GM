@@ -1,4 +1,2 @@
-✅  Fix gmail open seeds (click to Try another way);
-✅  Fix gmail turn on smtp;
-✅  Fix max length script;
-✅  Read logs data after open seeds (gmail, hotmail, yahoo).
+✅  Fix sending with multiple smtps;
+✅  Fix import smtp.
