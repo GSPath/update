@@ -1,4 +1,5 @@
 ✅ Fix open seeds gmail :
       📌 Check msg you are not a robot & save & close;
-      📌 Check recovery if it is correct or not & save & close;
-✅ Add setup of browser IceDragon (v.52.0.0.4) works better than WaterFox.
+      📌 Check recovery if it is correct or not & save & close.
+✅ Add setup of browser IceDragon (v.52.0.0.4) works better than WaterFox;
+✅ Add split (;).
