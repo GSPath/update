@@ -1,0 +1,10 @@
+✅ Fix "Verify it’s you" -> All scripts GMAIL;
+✅ In "create profiles", 
+        use a random variable in:
+          - computer_id;
+          - tempDirSuffix;
+          - cachedClientID,
+        change profileCreationTime,
+        force GPU acceleration,
+        enable the WebRender rendering engine
+✅ Save password and recovery in profiles database to use "PASSWORDEMAIL" statement in scripts.
